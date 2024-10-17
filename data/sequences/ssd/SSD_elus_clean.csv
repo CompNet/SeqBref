@@ -1,0 +1,151 @@
+"Id","NomDeNaissance","Prenom","Sexe","DateNaissance","CommuneDeNaissance","DepartementDeNaissance","PaysDeNaissance","DateDeces","CommuneDeDeces","Nationalite","LibelleProfession","Sources","Divers"
+"ssd_001","ABOMANGOLI","NADEGE","F",1975-09-15,"BRAZZAVILLE",NA,"Congo",NA,NA,"Français","Fonction publique","WIKIPEDIA",NA
+"ssd_002","ABRIOUX","JEAN CLAUDE","M",1931-12-01,"AULNAY SOUS BOIS","SEINE SAINT DENIS","France",2011-09-11,"AULNAY SOUS BOIS","Français","SNCF/RATP","WIKIPEDIA",NA
+"ssd_003","ANATO","PATRICE","M",1976-03-14,"LOME",NA,"Togo",NA,NA,"Français",NA,"WIKIPEDIA",NA
+"ssd_004","ARCHIMBAUD","ALINE","F",1948-11-02,"BELFORT","BELFORT","France",NA,NA,"Français",NA,"WIKIPEDIA",NA
+"ssd_005","ASENSI","FRANCOIS","M",1945-06-01,"SANTANDER",NA,"Espagne",NA,NA,"Français","Ingenieur-e","WIKIPEDIA",NA
+"ssd_006","ASSASSI","ELIANE","F",1958-10-02,"PARIS","PARIS","France",NA,NA,"Français","Communication","WIKIPEDIA",NA
+"ssd_007","AUTAIN","CLEMENTINE","F",1973-05-26,"SAINT CLOUD","HAUTS DE SEINE","France",NA,NA,"Français",NA,"WIKIPEDIA",NA
+"ssd_008","BACHELOT","FRANCOIS","M",1940-04-19,"MANS","SARTHE","France",2019-06-14,"SAINT CLOUD","Français","Medecin","WIKIPEDIA",NA
+"ssd_009","BALLANGER","ROBERT","M",1912-11-02,"NANTES","LOIRE ATLANTIQUE","France",1981-01-26,"SEVRAN","Français","Ouvrier-e","WIKIPEDIA","Résistance"
+"ssd_010","BEAUDET","PASCAL","M",1956-10-09,"LISIEUX","CALVADOS","France",2022-03-17,"AUBERVILLIERS","Français","Enseignant-e","WIKIPEDIA",NA
+"ssd_011","BERNARD","PIERRE","M",1934-01-30,"STRASBOURG","ALSACE","France",NA,NA,"Français","Militaire","WIKIPEDIA",NA
+"ssd_012","BERTHELOT","MARCELIN","M",1927-10-09,"THORAILLES","LOIRET","France",1997-09-25,"PARIS","Français","Ouvrier-e","WIKIPEDIA",NA
+"ssd_014","BESSAC","PATRICE","M",1978-06-17,"AGEN","LOT ET GARONNE","France",NA,NA,"Français","Entourage politique","WIKIPEDIA",NA
+"ssd_015","BESSERER","JEAN","M",NA,NA,NA,NA,NA,NA,"Français",NA,NA,NA
+"ssd_016","BETEILLE","RAOUL","M",1924-01-01,"NIMES","GARD","France",2015-04-18,NA,"Français","Magistrat-e","WIKIPEDIA",NA
+"ssd_017","BIDARD REYDET","DANIELLE","F",1939-12-08,NA,NA,"France",NA,NA,"Français",NA,"WIKIPEDIA",NA
+"ssd_018","BIRSINGER","BERNARD","M",1954-09-01,"PARIS","PARIS","France",2006-08-25,"BUNUS","Français","Ouvrier-e","WIKIPEDIA",NA
+"ssd_019","BLANCHET","STEPHANE","M",1970-02-06,NA,NA,NA,NA,NA,NA,"Fonction publique","WIKIPEDIA",NA
+"ssd_020","BONNEMAISON","GILBERT","M",1930-06-21,"PARIS","PARIS","France",2008-01-30,"HAUSSEZ","Français","Ingenieur-e","WIKIPEDIA",NA
+"ssd_022","BOUROUAHA","SOUMYA","F",1964-03-16,"GHAZAOUT",NA,"Algérie",NA,NA,"Français","Enseignant-e","WIKIPEDIA",NA
+"ssd_023","BRAOUEZEC","PATRICK","M",1950-12-11,"PARIS","PARIS","France",NA,NA,"Français","Enseignant-e","WIKIPEDIA",NA
+"ssd_024","BRARD","JEAN PIERRE","M",1948-02-07,"FLERS","ORNE","France",NA,NA,"Français","Enseignant-e","WIKIPEDIA",NA
+"ssd_025","BUFFET","MARIE GEORGE","F",1949-05-07,"SCEAUX","HAUTS DE SEINE","France",NA,NA,"Français","Fonction publique","WIKIPEDIA",NA
+"ssd_027","CADOT","MAURICE","M",1899-08-05,"ESSIGNY LE PETIT","AISNE","France",1986-04-03,"CHANTILLY","Français","SNCF/RATP","WIKIPEDIA",NA
+"ssd_028","CALMAT","ALAIN","M",1940-08-31,"PARIS","PARIS","France",NA,NA,"Français","Medecin","WIKIPEDIA",NA
+"ssd_030","CALMEJANE","ROBERT","M",1929-05-19,"PARIS","PARIS","France",2002-12-10,"PARIS","Français",NA,"WIKIPEDIA",NA
+"ssd_029","CALMEJANE","PATRICE","M",1960-02-06,"MONTREUIL","SEINE SAINT DENIS","France",NA,NA,"Français",NA,"WIKIPEDIA",NA
+"ssd_032","CAPO CANELLAS","VINCENT","M",1967-05-04,"NIMES","GARD","France",NA,NA,"Français","Entourage politique","WIKIPEDIA",NA
+"ssd_033","CARTIGNY","ERNEST","M",1923-07-18,NA,NA,NA,2009-12-09,NA,"Français","Chef-fe entreprise","WIKIPEDIA",NA
+"ssd_034","CATHALA","CHARLES","M",1914-11-06,"GRAULHET","TARN","France",1996-11-24,"NOISY LE GRAND","Français","Chef-fe entreprise","WIKIPEDIA",NA
+"ssd_036","CHARRIERE","SYLVIE","F",1961-05-15,"MONTREUIL","SEINE SAINT DENIS","France",NA,NA,"Français","Enseignant-e","WIKIPEDIA",NA
+"ssd_037","CHONAVAL","JACQUELINE","F",1924-07-07,"PARIS","PARIS","France",NA,NA,"Français",NA,"WIKIPEDIA",NA
+"ssd_038","CLEMENT","ROBERT","M",1939-01-18,NA,NA,"France",NA,NA,"Français","Employe-e","WIKIPEDIA",NA
+"ssd_042","COQUEREL","ERIC","M",1958-12-30,"COURBEVOIE","HAUTS DE SEINE","France",NA,NA,"Français","Communication","WIKIPEDIA",NA
+"ssd_039","COLLAVERI","LOUIS","M",1878-09-13,"LIVOURNE",NA,"Italie",1963-05-05,"PANTIN","Français","Cadre parti","MAITRON","Franc-maçon"
+"ssd_043","CORBIERE","ALEXIS","M",1968-09-17,"BEZIERS","HERAULT","France",NA,NA,"Français","Enseignant-e","WIKIPEDIA",NA
+"ssd_045","CORRIEZ","GEORGES","M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ssd_046","COURTAT","ROBERT","M",1922-04-26,"SAINT SEVRAN","ILLE ET VILAINE","France",1990-11-28,"LANNION","Français","Haut fonctionnaire","MAITRON",NA
+"ssd_047","COUTROT","MAURICE","M",1907-12-03,"PARIS","PARIS","France",1992-09-17,"BONDY","Français",NA,"WIKIPEDIA",NA
+"ssd_048","DALLIER","PHILIPPE","M",1962-12-08,"LEVALLOIS PERRET","HAUTS DE SEINE","France",NA,NA,"Français","Cadre","WIKIPEDIA",NA
+"ssd_049","DEBARGE","MARCEL","M",1929-10-16,"COURRIERES","PAS DE CALAIS","France",2015-12-23,"SOUBISE","Français","PTT","WIKIPEDIA",NA
+"ssd_051","DELHY","JACQUES","M",1950-05-19,"SAINT MANDE","VAL DE MARNE","France",NA,NA,"Français","Enseignant-e","WIKIPEDIA",NA
+"ssd_052","DELMONT KOROPOULIS","ANNIE","F",1947-07-13,NA,NA,NA,NA,NA,"Français",NA,"WIKIPEDIA",NA
+"ssd_053","DEMUYNCK","CHRISTIAN","M",1947-07-24,"PERREUX SUR MARNE","VAL DE MARNE","France",NA,NA,"Français","Enseignant-e","WIKIPEDIA",NA
+"ssd_054","DERKAOUI","MERIEM","F",1955-09-25,"SAIDA","SAIDA","Algérie",NA,NA,"Franco-Alegérien","Fonction publique","WIKIPEDIA",NA
+"ssd_055","DILAIN","CLAUDE","M",1948-08-12,"SAINT DENIS","SEINE SAINT DENIS","France",2015-03-03,"PARIS","Français","Medecin","WIKIPEDIA",NA
+"ssd_057","DUFRICHE","MARCEL","M",1911-10-16,"MONACO",NA,"Monaco",2001-05-09,"MONTREUIL","Français","Policier-e","WIKIPEDIA","Résistance"
+"ssd_058","FAJON","ETIENNE","M",1906-09-11,"JONQUIERES","HERAULT","France",1991-12-04,"ARGENTEUIL","Français","Enseignant-e","WIKIPEDIA",NA
+"ssd_059","FEURTET","DANIEL","M",1944-09-16,"DIJON","COTE D'OR","France",NA,NA,"Français","Artisanat","WIKIPEDIA",NA
+"ssd_060","FOST","PAULETTE","F",1937-09-18,"PARIS","PARIS","France",NA,NA,"Français","Cadre parti","WIKIPEDIA",NA
+"ssd_061","FRANCLET","KARINE","F",1981-12-13,NA,NA,"France",NA,NA,"Français","Dir. etablissement public","WIKIPEDIA",NA
+"ssd_062","FUZIER","CLAUDE","M",1924-06-02,NA,NA,NA,1997-01-22,NA,"Français","Journaliste","WIKIPEDIA",NA
+"ssd_064","GARCIA","JEAN","M",1925-06-05,"MARSEILLE","BOUCHES DU RHONE","France",2012-02-08,"BOBIGNY","Français","Ouvrier-e","WIKIPEDIA",NA
+"ssd_065","GARRIDO","RAQUEL","F",1974-04-23,"VALPARAISO",NA,"Chili",NA,NA,"Chilio-française","Avocat-e","WIKIPEDIA",NA
+"ssd_066","GATIGNON","STEPHANE","M",1969-08-25,"ARGENTEUIL","VAL D OISE","France",NA,NA,"Français","Entourage politique","WIKIPEDIA",NA
+"ssd_067","GAUDRON","GERARD","M",1949-09-26,"EVANS","JURA","France",NA,NA,"Français","Geologue","WIKIPEDIA",NA
+"ssd_068","GAY","FABIEN","M",1984-01-13,"BORDEAUX","GIRONDE","France",NA,NA,"Français","Presse","WIKIPEDIA",NA
+"ssd_069","GAYSSOT","JEAN CLAUDE","M",1944-09-06,"BEZIERS","HERAULT","France",NA,NA,"Français","SNCF/RATP","WIKIPEDIA",NA
+"ssd_071","GILLOT","AUGUSTE","M",1905-02-07,"DOURDAN","ESSONNE","France",1998-09-01,"GISORS","Français","Artisanat","WIKIPEDIA","Résistance"
+"ssd_072","GOLDBERG","DANIEL","M",1965-08-24,"SAINT DENIS","SEINE SAINT DENIS","France",NA,NA,"Français","Enseignant-e","WIKIPEDIA",NA
+"ssd_073","GOUHIER","ROGER","M",1928-01-26,"VITRAI SOUS LAIGLE","ORNE","France",1995-03-16,"PARIS","Français","SNCF/RATP","WIKIPEDIA",NA
+"ssd_074","GOUTMANN","MARIE THERESE","F",1933-08-29,"PONTCHARTRAIN","YVELINES","France",2016-09-29,"MONTPELLIER","Français","Enseignant-e","WIKIPEDIA",NA
+"ssd_076","GRENIER","FERNAND","M",1901-07-09,"TOURCOING","NORD","France",1992-08-12,"SAINT DENIS","Français","Artisanat","WIKIPEDIA","Résistance"
+"ssd_078","GUIGOU","ELISABETH","F",1946-08-06,"MARRAKECH",NA,"Maroc",NA,NA,"Français","Fonction publique","WIKIPEDIA",NA
+"ssd_075","GREGOIRE","ANDRE","M",1911-01-01,NA,NA,NA,1988-06-01,NA,"Français","Ouvrier-e","PRESSE",NA
+"ssd_079","HAMMADI","RAZZY","M",1979-02-22,"TOULON","VAR","France",NA,NA,"Français","Cadre","WIKIPEDIA",NA
+"ssd_080","HANOTIN","MATHIEU","M",1978-08-22,"COMPIEGNE","OISE","France",NA,NA,"Français","Fonction publique","WIKIPEDIA",NA
+"ssd_081","HERVE","STEPHEN","M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ssd_082","HOLEINDRE","ROGER","M",1929-03-21,"CORRANO","CORSE","France",2020-01-30,"VAUCRESSON","Français","Ouvrier-e","WIKIPEDIA","Résistance"
+"ssd_084","HOUDREMONT","JEAN","M",1924-10-04,"PARIS","PARIS","France",1973-01-25,"LA COURNEUVE","Français","Ingenieur-e","WIKIPEDIA",NA
+"ssd_086","ISABET","JACQUES","M",1939-07-10,NA,NA,"France",NA,NA,"Français","Cadre parti","ARCHIVES",NA
+"ssd_087","JACQUAINT","MUGUETTE","F",1942-05-12,"AUBERVILLIERS","SEINE SAINT DENIS","France",NA,NA,"Français","Ouvrier-e","WIKIPEDIA",NA
+"ssd_088","KARMAN","ANDRE","M",1924-03-10,"AUBERVILLIERS","SEINE SAINT DENIS","France",1984-05-31,"PARIS","Français","Ouvrier-e","WIKIPEDIA","Résistance"
+"ssd_089","KELOUA HACHI","FATIHA","F",1971-06-05,"PARIS","PARIS","France",NA,NA,"Français","Enseignant-e","WIKIPEDIA",NA
+"ssd_090","KERAUTRET","PIERRE","M",1899-05-11,"SAINT PIERRE QUILBIGNON","FINISTERE","France",1967-01-11,"ROMAINVILLE","Français","Artisanat","MAITRON",NA
+"ssd_091","KERN","BERTRAND","M",1962-02-04,"BELFORT","BELFORT","France",NA,NA,"Français","Banquier-e","WIKIPEDIA",NA
+"ssd_092","KLEIN","OLIVIER","M",1967-02-16,"CLICHY SOUS BOIS","SEINE SAINT DENIS","France",NA,NA,"Français","Enseignant-e","WIKIPEDIA",NA
+"ssd_093","LACHAUD","BASTIEN","M",1980-08-05,"VITRY SUR SEINE","VAL DE MARNE","France",NA,NA,"Français","Enseignant-e","WIKIPEDIA",NA
+"ssd_095","LAGARDE","JEAN CHRISTOPHE","M",1967-10-24,"CHATELLERAULT","VIENNE","France",NA,NA,"Français",NA,"WIKIPEDIA",NA
+"ssd_096","LAINAT","FERNAND","M",1924-11-01,NA,"ALLIER","France",2015-01-05,"LOUROUX BOURBONNAIS","Français","SNCF/RATP","ARCHIVES",NA
+"ssd_098","LE ROUX","BRUNO","M",1965-05-02,"GENNEVILLIERS","HAUTS DE SEINE","France",NA,NA,"Français",NA,"WIKIPEDIA",NA
+"ssd_099","LEFORT","FERNAND","M",1911-10-09,"PARIS","PARIS","France",1991-10-02,"SAINT OUEN","Français","Technicien-ne","WIKIPEDIA",NA
+"ssd_100","LEGAVRE","JEROME","M",1972-08-20,"RENNES","ILLE ET VILAINE","France",NA,NA,"Français","Enseignant-e","WIKIPEDIA",NA
+"ssd_101","LOLIVE","JEAN","M",1910-06-06,"BRIGNAIS","RHONE","France",1968-09-06,"PANTIN","Français","Ouvrier-e","WIKIPEDIA","Résistance"
+"ssd_102","MAHEAS","JACQUES","M",1939-09-10,"IVRY SUR SEINE","VAL DE MARNE","France",2022-08-20,"NICE","Français","Enseignant-e","WIKIPEDIA",NA
+"ssd_105","MARSON","JAMES","M",1926-11-01,"VILLECRESNES","VAL DE MARNE","France",2017-12-01,"NANTES","Français","Ingenieur-e","WIKIPEDIA",NA
+"ssd_104","MARSIGNY","BRIGITTE","F",1952-07-11,NA,NA,NA,NA,NA,"Français","Avocat-e","WIKIPEDIA",NA
+"ssd_107","MASSONNAUD RICHARD","FRANCOISE","F",NA,NA,NA,NA,NA,NA,"Français","Assurance","WIKIPEDIA",NA
+"ssd_103","MARCHELART","GERARD","M",1928-01-01,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ssd_109","NEIERTZ","VERONIQUE","F",1942-11-06,"PARIS","PARIS","France",NA,NA,"Français","Enseignant-e","WIKIPEDIA",NA
+"ssd_110","NILES","MAURICE","M",1919-09-12,"PARIS","PARIS","France",2001-12-05,"BOBIGNY","Français","Fonction publique","WIKIPEDIA","Résistance"
+"ssd_111","ODRU","LOUIS","M",1918-12-09,"SOSPEL","ALPES MARITIMES","France",2004-09-10,"MONTREUIL","Français","Enseignant-e","WIKIPEDIA",NA
+"ssd_113","OUDOT","JACQUES","M",1934-06-15,"LILAS","SEINE SAINT DENIS","France",NA,NA,"Français",NA,"WIKIPEDIA",NA
+"ssd_112","ORY","ANDRE","M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ssd_114","PAILLARD","DIDIER","M",1954-12-01,"SAINT DENIS","SEINE SAINT DENIS","France",NA,NA,"Français","Ouvrier-e","WIKIPEDIA",NA
+"ssd_115","PAJON","MICHEL","M",1949-06-30,"DRANCY","SEINE SAINT DENIS","France",NA,NA,"Français","Universitaire","WIKIPEDIA",NA
+"ssd_116","PANDRAUD","ROBERT","M",1928-10-16,"PUY EN VELAY","HAUTE LOIRE","France",2010-02-18,"SURESNES","Français","Policier-e","WIKIPEDIA",NA
+"ssd_118","PEU","STEPHANE","M",1962-07-24,"PAU","PYRENNEES ATLANTIQUES","France",NA,NA,"Français",NA,"WIKIPEDIA",NA
+"ssd_120","PIERNA","LOUIS","M",1933-01-16,"STAINS","SEINE SAINT DENIS","France",2021-04-28,"TUNIS","Français","Artisanat","WIKIPEDIA",NA
+"ssd_121","POCHON","ELISABETH","F",1955-04-19,"CONSTANTINE",NA,"Algérie",NA,NA,"Français","Dir. etablissement public","WIKIPEDIA",NA
+"ssd_122","PONTONE","ANTOINE","M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ssd_123","POPELIN","PASCAL","M",1967-02-27,"PARIS","PARIS","France",NA,NA,"Français","Fonction publique","WIKIPEDIA",NA
+"ssd_124","PORTES","THOMAS","M",1925-11-18,"CARMAUX","TARN","France",NA,NA,"Français","SNCF/RATP","WIKIPEDIA",NA
+"ssd_125","POUX","GILLES","M",1957-06-07,"CAPDENAC","AVEYRON","France",NA,NA,"Français","Technicien-ne","WIKIPEDIA",NA
+"ssd_127","RALITE","JACK","M",1928-05-14,"CHALONS SUR MARNE","MARNE","France",2017-11-12,"AUBERVILLIERS","Français","Journaliste","WIKIPEDIA",NA
+"ssd_128","RAMADIER","ALAIN","M",1958-07-08,NA,NA,NA,NA,NA,"Français",NA,"WIKIPEDIA",NA
+"ssd_129","RAOULT","ERIC","M",1955-06-19,"PARIS","PARIS","France",2021-04-16,"SAINT DENIS","Français",NA,"WIKIPEDIA",NA
+"ssd_130","ROCHET","WALDECK","M",1905-04-05,"SAINTE CROIX","SAONE ET LOIRE","France",1983-02-15,"NANTERRE","Français","Agri. exploitation","WIKIPEDIA","Résistance"
+"ssd_131","ROGER","GILBERT","M",1953-11-09,"BONDY","SEINE SAINT DENIS","France",NA,NA,"Français",NA,"WIKIPEDIA",NA
+"ssd_132","RUBIN","SABINE","F",1960-08-13,"PARIS","PARIS","France",NA,NA,"Français","Enseignant-e","WIKIPEDIA",NA
+"ssd_134","SALLES","JEAN JACK","M",1935-02-17,"CONSTANTINE",NA,"Algérie",2009-08-24,NA,"Français","Assurance","WIKIPEDIA",NA
+"ssd_135","SALVATOR","JACQUES","M",1949-01-02,"PARIS","PARIS","France",2016-03-11,"PARIS","Français","Medecin","WIKIPEDIA",NA
+"ssd_137","SERELLE","MARIUS","M",1905-09-07,"CHATEAURENAULT","INDRE ET LOIRE","France",1977-04-22,"CRETEIL","Français","Fonction publique","WIKIPEDIA",NA
+"ssd_138","SOLBES","LOUIS","M",1924-03-27,"CORBENY","AISNE","France",1987-01-22,"VILLEPINTE","Français","Enseignant-e","MAITRON",NA
+"ssd_139","TESTE","STEPHANE","M",1968-05-10,"AULNAY SOUS BOIS","SEINE SAINT DENIS","France",NA,NA,"Français","Enseignant-e","WIKIPEDIA",NA
+"ssd_141","THOMASSIN","SYLVINE","F",1959-12-13,"LYON","BOUCHES DU RHONE","France",NA,NA,"Français","Sante","WIKIPEDIA",NA
+"ssd_142","TOUTAIN","ANDRE","M",1905-03-01,"NIMES","GARD","France",1978-10-10,"SAINT MEDARD EN JALLES","Français","Finance","WIKIPEDIA",NA
+"ssd_143","TROUVE","AURELIE","F",1979-09-20,"CHAUNY","AISNE","France",NA,NA,"Français","Ingenieur-e","WIKIPEDIA",NA
+"ssd_146","VALLS","CORINNE","F",1957-02-02,"MARSEILLE","BOUCHES DU RHONE","France",NA,NA,"Français","Fonction publique","WIKIPEDIA",NA
+"ssd_145","VALENET","RAYMOND","M",1912-08-06,"PARIS","PARIS","France",1978-09-21,"EAUBONNE","Français",NA,"WIKIPEDIA","Déporté"
+"ssd_147","VERGNAUD","BERNARD","M",1932-01-01,NA,NA,NA,2000-04-03,"CUBJAC","Français","Technicien-ne","PRESSE",NA
+"ssd_148","VOYNET","DOMINIQUE","F",1958-11-04,"MONTBELIARD","DOUBS","France",NA,NA,"Français","Medecin","WIKIPEDIA",NA
+"ssd_149","YONNET","EVELYNE","F",1954-10-09,NA,NA,NA,NA,NA,"Français",NA,"WIKIPEDIA",NA
+"ssd_150","ZARKA","PIERRE","M",1948-09-16,"PARIS","PARIS","France",NA,NA,"Français",NA,"WIKIPEDIA",NA
+"ssd_126","PROBERT","GERARD","M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ssd_035","CHAPUIS","CHRISTIAN","M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ssd_050","DECHAMPS","ANDRE","M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ssd_031","CALTOT","ROGER","M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ssd_106","MARY","GUSTAVE","M",NA,NA,NA,NA,NA,NA,NA,"Medecin",NA,NA
+"ssd_085","HOUYOUX","MAURICE","M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ssd_044","CORRE","CHARLES","M",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+"ssd_026","CADOT","ANDRE","M",NA,NA,NA,NA,NA,NA,NA,NA,NA,"Résistance"
+"ssd_097","LE BRIS","ALBERT","M",1934-01-01,NA,NA,NA,2008-06-04,NA,NA,"Cadre","PRESSE",NA
+"ssd_063","GAILLANT","FREDERIC","M",NA,NA,NA,NA,NA,NA,NA,"Cadre","WIKIPEDIA",NA
+"ssd_083","HOPPE","YANNICK","M",1983-12-07,"DIJON","COTE D'OR","France",NA,NA,"Français","Entourage politique","PRESSE",NA
+"ssd_021","BORSALI","JEAN BAPTISTE","M",1988-04-04,NA,NA,NA,NA,NA,NA,"Communication","WIKIPEDIA",NA
+"ssd_040","COLSON","MARCEL","M",NA,NA,NA,NA,1968-03-01,NA,NA,NA,NA,NA
+"ssd_070","GENESTIER","JEAN MICHEL","M",1962-05-16,"RAINCY","SEINE SAINT DENIS","France",NA,NA,"Français","Commercial-e","PRESSE",NA
+"ssd_108","MEGE","RAYMOND","M",1919-01-01,NA,NA,NA,2009-08-24,"RAINCY","Français","Ingenieur-e","PRESSE",NA
+"ssd_056","DOUDEY","LUCIEN","M",NA,NA,NA,NA,1976-01-01,NA,NA,NA,"WIKIPEDIA",NA
+"ssd_140","THOMAS","PIERRE","M",1929-01-01,NA,NA,"France",2008-06-28,NA,"Français","Technicien-ne","PRESSE",NA
+"ssd_136","SEGURA","GERARD","M",1948-05-24,"AMMI MOUSSA",NA,"Algérie",NA,NA,"Français","Enseignant-e","WIKIPEDIA",NA
+"ssd_013","BESCHIZZA","BRUNO","M",1968-03-24,"SAINT MANDE","VAL DE MARNE","France",NA,NA,"Français","Policier-e","WIKIPEDIA",NA
+"ssd_041","CONTE","GILBERT","M",1941-01-01,NA,NA,NA,NA,NA,"Français","Ingenieur-e","PRESSE",NA
+"ssd_094","LAGARDE","AUDE","F",1976-05-15,"CASTELNAUDARY","AUDE","France",NA,NA,"Français",NA,"POLITIQUEMANIA","Femme d'élu"
+"ssd_077","GUESNIER","RENE","M",1919-01-07,"CLICHY LA GARENNE","HAUTS DE SEINE","France",1999-05-19,"GONESSE","Français","Commercial-e","MAITRON","Résistance"
+"ssd_144","VALBON","GEORGES","M",1924-08-08,"LUNERY","CHER","France",2009-07-18,NA,"Français","Ouvrier-e","MAITRON",NA
+"ssd_119","PEYGE","Catherine","F",1959-10-08,"MARIGNAC","HAUTE GARONNE","France",NA,NA,"Français","Enseignant-e","WIKIPEDIA",NA
+"ssd_117","PAOLI","Stephane","M",1900-01-01,NA,NA,NA,NA,NA,"Français","Ingenieur-e","PRESSE",NA
+"ssd_133","SADI","Abdel","M",1962-02-11,NA,NA,NA,NA,NA,NA,"Enseignant-e","PRESSE",NA
